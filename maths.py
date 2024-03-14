@@ -26,7 +26,7 @@ def div(a, b):
         raise DivisionByZeroError()
     return a / b
 
-def mul(a, b):
+def mumul(a, b):
     """
     a and b should be objects having dmethode
     Compute the product of two numbers
