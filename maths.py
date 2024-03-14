@@ -1,6 +1,7 @@
 def add(a, b):
     """
     Compute the sum of two numbers
+    a and b are number
 
     >>> add(1, 2)
     3
@@ -13,6 +14,7 @@ def add(a, b):
 
 def div(a, b):
     """
+    a and b must be float
     Compute the quotient of two numbers
 
     >>> div(6, 2)
@@ -26,6 +28,7 @@ def div(a, b):
 
 def mul(a, b):
     """
+    a and b should be objects having dmethode
     Compute the product of two numbers
 
     >>> mul(3, 2)
@@ -43,6 +46,7 @@ def mul(a, b):
 def sub(a, b):
     """
     Compute the difference of two numbers
+    I don't know the time
 
     >>> sub(1, 2)
     -1
