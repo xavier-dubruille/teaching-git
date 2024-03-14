@@ -1,16 +1,4 @@
-def add(a, b):
-    """
-    Compute the sum of two numbers
-    a and b are number
 
-    >>> add(1, 2)
-    3
-    >>> add(1, 0)
-    1
-    >>> add(-2, 1)
-    -1
-    """
-    return a + b
 
 def div(a, b):
     """
@@ -56,6 +44,21 @@ def sub(a, b):
     1
     """
     return a - b
+
+
+def add(a, b):
+    """
+    Compute the sum of two numbers
+    a and b are number
+
+    >>> add(1, 2)
+    3
+    >>> add(1, 0)
+    1
+    >>> add(-2, 1)
+    -1
+    """
+    return a + b
 
 if __name__ == '__main__':
     import doctest
