@@ -1,4 +1,4 @@
-# tedfsst fsdfs
+# tedfsst fsdfs ==> nan
 
 def div(a, b):
     """
