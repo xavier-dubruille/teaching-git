@@ -1,4 +1,4 @@
-# more docs
+# plus de documentation
 
 def div(a, b):
     """
