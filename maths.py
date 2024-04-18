@@ -28,7 +28,7 @@ def mumul(a, b):
     """
     m = 0
     for _ in range(b):
-        m += a
+        m += aba
     return m
 
 def sub(a, b):
