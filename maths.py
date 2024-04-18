@@ -14,7 +14,7 @@ def div(a, b):
         raise DivisionByZeroError()
     return a / b
 
-def mumul(a, b):
+def mumul(ab, b):
     """
     a and b should be objects having dmethode
     Compute the product of two numbers
@@ -28,7 +28,7 @@ def mumul(a, b):
     """
     m = 0
     for _ in range(b):
-        m += aba
+        m += ab
     return m
 
 def sub(a, b):
