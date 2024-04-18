@@ -1,5 +1,3 @@
-
-
 def div(a, b):
     """
     a and b must be float
