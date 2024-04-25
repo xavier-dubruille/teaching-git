@@ -1,5 +1,3 @@
-
-
 def div(a, b):
     """
     a and b must be float
@@ -61,5 +59,6 @@ def add(a, b):
     return a + b
 
 if __name__ == '__main__':
+    """ Petit commentaire"""
     import doctest
     doctest.testmod()
